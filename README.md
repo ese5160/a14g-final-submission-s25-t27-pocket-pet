@@ -41,7 +41,7 @@ The Pocket Pet is built around two primary microcontrollers:
 
 **System-Level Block Diagram:**
 
-![1746239264182](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/85261/OneDrive%20-%20HKUST%20Connect/others/documents/a14g-final-submission-s25-t27-pocket-pet/image/README/1746239264182.png)
+![1746242678096](image/README/1746242678096.png)
 
 ### Challenges
 
