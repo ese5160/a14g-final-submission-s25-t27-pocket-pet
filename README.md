@@ -31,7 +31,7 @@ The Pocket Pet is built around two primary microcontrollers:
 * **SAMW (Adafruit Audio FX + Amp)** : Manages sound playback, haptic feedback, and button responses.
 * **Seeed Studio XIAO ESP32 S3 Sense** : Controls screen animations, microphone input, camera processing, and Wi-Fi/Bluetooth communication.
 
-**Key Components:**
+**Key Components**
 
 * **Sensors** : OV2640 camera, microphone, and IMU for gesture/motion detection
 * **Actuators** : Mini metal speaker and vibration motor
