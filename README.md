@@ -10,6 +10,8 @@
 
 ## 1. Video Presentation
 
+[Pocket Pet Video](https://www.youtube.com/watch?v=3zpwB6xOmpA)
+
 ## 2. Project Summary
 
 ### Device Description
@@ -39,8 +41,8 @@ The Pocket Pet is built around two primary microcontrollers:
 
 * **Sensors**: Accelerometer ADXL345, OV2640 camera (built in Xiao ESP32 S3 Sense), microphone (built in XIAO ESP32 S3 Sense)
 * **Actuators**: Adafruit Audio FX Sound Board with mini metal speaker, haptic motor driver DRV2605L + vibration motor, Seeed Studio round display
-* **Connectivity** : Wi-Fi (SAMW25 & Xiao ESP32S3 Sense), BLE 5.0, NFC chip
-* **Power** : Dual Li-Po batteries (2000mAh and 2200mAh)
+* **Connectivity**: Wi-Fi (SAMW25 & Xiao ESP32S3 Sense), BLE 5.0, NFC chip
+* **Power**: Dual Li-Po batteries (2000mAh and 2200mAh)
 
 **System-Level Block Diagram:**
 
