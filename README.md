@@ -124,9 +124,9 @@ Through ESE5160, we learned how to transform a conceptual idea into a working Io
 
 **Node-RED** URL:
 
-Dashboard: http://20.185.221.248:1880/ui/#!/0?socketid=D7hYEW6I2cqlh01MAAAf
+Dashboard: [Node-RED Dashboard](http://20.185.221.248:1880/ui/#!/0?socketid=D7hYEW6I2cqlh01MAAAf)
 
-Backend: http://20.185.221.248:1880/#flow/a7c0786199e46121
+Backend:[ Node-RED Backend](http://20.185.221.248:1880/#flow/a7c0786199e46121)
 
 PCBA Altium Designer: [https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46FD-485B-AC5E-4C56645247D5](https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46FD-485B-AC5E-4C56645247D5)
 
@@ -216,8 +216,8 @@ PCBA Altium Designer: [https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46F
 
 - A link to your final embedded C firmware codebases
 
-  https://github.com/ese5160/final-project-t27-pocket-pet
+  [Firmware codebases](https://github.com/ese5160/final-project-t27-pocket-pet)
 - A link to your Node-RED dashboard code
 
-  https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Node-RED
+  [Node-RED Code](https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Node-RED)
 - Links to any other software required for the functionality of your device
