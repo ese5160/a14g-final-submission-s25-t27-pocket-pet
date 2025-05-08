@@ -73,7 +73,7 @@ We introduced a clever workaround: loading a lightweight "blinking LED" task fir
 
 ### Prototype Learnings
 
-For PCB prototype, we iterated the layout to ensure each module has the best layout with each component. We put the same power module close to each other and close to the power. We strictly follow the datasheet to draw the power module, ensure it's in correct and stable layout. We double check every module to prevent any mistake or dangerous point that could lead to manufacture issue. 
+For PCB prototype, we iterated the layout to ensure each module has the best layout with each component. We put the same power module close to each other and close to the power. We strictly follow the datasheet to draw the power module, ensure it's in correct and stable layout. We double check every module to prevent any mistake or dangerous point that could lead to manufacture issue.
 
 In the testing process, we learned that to scale our approach from individual components to the complete system. We began by evaluating each power regulator—first the buck converter, then the boosrt converter—and, once both were confirmed to deliver the correct voltages, we verified the functionality of the entire power module. Our PCB works perfectly thanks to our careful design.
 
@@ -116,7 +116,7 @@ Through ESE5160, we learned how to transform a conceptual idea into a working Io
 
 ### **Project Links**
 
-**Node-RED** URL: 
+**Node-RED** URL:
 
 Dashboard: http://20.185.221.248:1880/ui/#!/0?socketid=D7hYEW6I2cqlh01MAAAf
 
@@ -166,7 +166,6 @@ PCBA Altium Designer: [https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46F
 
 ![1746640028332](image/README/1746640028332.png)
 
-
 ![1746639818974](image/README/1746639818974.png)
 
 **PCBA, top:**
@@ -208,5 +207,9 @@ PCBA Altium Designer: [https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46F
 ## Codebase
 
 - A link to your final embedded C firmware codebases
+
+  https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Application
 - A link to your Node-RED dashboard code
+
+  https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Node-RED
 - Links to any other software required for the functionality of your device
