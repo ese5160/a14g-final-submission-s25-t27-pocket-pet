@@ -202,13 +202,15 @@ PCBA Altium Designer: [https://upenn-eselabs.365.altium.com/designs/4EB67CF4-46F
 
 **Block diagram of our system**:
 
-![1746239264182](image/README/1746239264182.png)
+![1746669825954](image/README/1746669825954.png)
+
+![1746670570436](image/README/1746670570436.png)
 
 ## Codebase
 
 - A link to your final embedded C firmware codebases
 
-  https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Application
+  https://github.com/ese5160/final-project-t27-pocket-pet
 - A link to your Node-RED dashboard code
 
   https://github.com/ese5160/a14g-final-submission-s25-t27-pocket-pet/tree/main/Node-RED
