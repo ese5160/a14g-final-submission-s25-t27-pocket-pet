@@ -116,6 +116,8 @@ Begin with oversized tolerances, use flexible materials earlier, and design inte
 
 Through ESE5160, we learned how to transform a conceptual idea into a working IoT product. The course provided hands-on experience with sensor integration, embedded programming, wireless protocols, and iterative hardware design. Most importantly, it taught us how to troubleshoot across disciplines—electrical, mechanical, and software—and work through real-world prototyping constraints.
 
+A key takeaway from this course was gaining hands‑on expertise in Altium Designer—an industry‑standard PCB tool—which enabled us to go from schematic capture and layout design all the way through to generating manufacturing files. Equally valuable was our deep dive into FreeRTOS, where we learned to structure real‑time applications by creating and managing tasks, implementing inter‑task communication, and using semaphores and mutexes to build efficient, reliable embedded software.
+
 ### **Project Links**
 
 **Node-RED** URL:
